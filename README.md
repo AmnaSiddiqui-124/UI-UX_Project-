@@ -22,6 +22,12 @@ A creative poster design with circular text and image composition.
 4. VR Gaming Platform Landing Page 🎮
 [View on Figma](https://www.figma.com/design/unMrCQor3DiqxnsIwH1dIp/Untitled?t=EaKCXlpMr9wOkEEH-1)
 
+5. Cosmetics Poster (Pink Theme)** 💄
+[View on Figma](https://www.figma.com/design/JqhNTyFLS1YRBBTO6Zos8I/Untitled?node-id=1-2&t=lm7SncrFpQQ5bbT0-1)
 
 
- 
+6.A mobile app design for health & wellness
+[View on Figma](https://www.figma.com/design/FdxZOo8ktkV47IRJOH08Nn/Untitled?node-id=0-1&t=lm7SncrFpQQ5bbT0-1)
+
+
+   
