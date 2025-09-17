@@ -30,7 +30,7 @@ A creative poster design with circular text and image composition.
 [View on Figma](https://www.figma.com/design/FdxZOo8ktkV47IRJOH08Nn/Untitled?node-id=0-1&t=lm7SncrFpQQ5bbT0-1)
 
 7. Poster Design – New Year, Old Me
-8. [figma.com/proto/cHxfL1TNbaX9mpNcIoehr3/Untitled?node-id=7-2&starting-point-node-id=1%3A68]
+[View on Figma](figma.com/proto/cHxfL1TNbaX9mpNcIoehr3/Untitled?node-id=7-2&starting-point-node-id=1%3A68)
 
 
    
